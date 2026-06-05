@@ -122,3 +122,5 @@ For issues or questions, open an issue in this repository.
 ---
 
 **Made with ❤️ for quick and easy bot deployment**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/319e039c-8865-4014-8dbc-d370bd68d5f3" />
+
